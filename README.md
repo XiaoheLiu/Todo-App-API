@@ -8,4 +8,4 @@ A single page todo list app built with node.js
 
 ## Deployed
 See the deployed app on heroku: 
-[https://stormy-taiga-42565.herokuapp.com/](https://stormy-taiga-42565.herokuapp.com/)
+[https://focus-todo.herokuapp.com/](https://focus-todo.herokuapp.com/)
