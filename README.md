@@ -9,3 +9,7 @@ A single page todo list app built with node.js
 ## Deployed
 See the deployed app on heroku: 
 [https://focus-todo.herokuapp.com/](https://focus-todo.herokuapp.com/)
+
+## React.js Frontend
+I also made a frontend with React.js. 
+See the Github repo: [https://github.com/XiaoheLiu/react-todos-frontend]
