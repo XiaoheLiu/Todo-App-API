@@ -12,4 +12,4 @@ See the deployed app on heroku:
 
 ## React.js Frontend
 I also made a frontend with React.js. 
-See the Github repo: [https://github.com/XiaoheLiu/react-todos-frontend]
+See the Github repo: (https://github.com/XiaoheLiu/react-todos-frontend)
